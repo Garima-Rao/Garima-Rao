@@ -3,11 +3,13 @@ I’m @Garima-Rao,a passionate programmer from Jaipur.
 
 ## 🔧 Skills
 
-- **Programming Languages:** C,JavaScript, Java
-- **Web Technologies:** HTML5, CSS3,Node.js
+- **Programming Languages:** C, JavaScript, Java, Python
+- **Web Technologies:** HTML5, CSS3, Bootsrap, Node.js
 - **Tools and Frameworks:** Git, VS Code, Express.js
 
 ## 🚀 Projects
+**[HexCode Generator]**(https://garima-rao.github.io/Hex-Generator/)
+
 **[Food Website]**(https://garima-rao.github.io/FoodAdda/)
 
 **[Words Counter]**(https://garima-rao.github.io/WordCounter/)
