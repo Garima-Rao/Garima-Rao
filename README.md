@@ -8,6 +8,8 @@ I’m @Garima-Rao,a passionate programmer from Jaipur.
 - **Tools and Frameworks:** Git, VS Code, Express.js
 
 ## 🚀 Projects
+**[Quote Generator]**(https://garima-rao.github.io/Quote-Generator/)
+
 **[HexCode Generator]**(https://garima-rao.github.io/Hex-Generator/)
 
 **[Food Website]**(https://garima-rao.github.io/FoodAdda/)
