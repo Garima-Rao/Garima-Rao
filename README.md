@@ -10,6 +10,8 @@ I’m @Garima-Rao,a passionate programmer from Jaipur.
 ## 🚀 Projects
 **[Quote Generator]**(https://garima-rao.github.io/Quote-Generator/)
 
+**[Digital Watch]**( https://garima-rao.github.io/Digital-Watch/)
+
 **[HexCode Generator]**(https://garima-rao.github.io/Hex-Generator/)
 
 **[Food Website]**(https://garima-rao.github.io/FoodAdda/)
