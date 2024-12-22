@@ -8,7 +8,7 @@ I’m @Garima-Rao,a passionate programmer from Jaipur.
 - **Tools and Frameworks:** Git, VS Code, Express.js
 
 ## 🚀 Projects
-**[Quote Generator]**(https://garima-rao.github.io/Quote-Generator/)
+**[New Year Countdown]**(https://garima-rao.github.io/New-Year-Countdown/))
 
 **[Digital Watch]**( https://garima-rao.github.io/Digital-Watch/)
 
